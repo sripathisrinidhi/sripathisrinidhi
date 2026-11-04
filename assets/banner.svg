@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Sripathi Srinidhi, MSc Data Science student, open to ML and AI internships">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.e{stroke:#334155;stroke-width:1;fill:none}
+.f{stroke:#34d399;stroke-width:2;fill:none;stroke-dasharray:24 400;stroke-dashoffset:424;animation:f 2.8s linear infinite}
+.n{fill:#0f172a;stroke:#34d399;stroke-width:2.5;animation:p 2.8s ease-in-out infinite}
+.c{animation:b 1.1s steps(2) infinite}
+@keyframes f{to{stroke-dashoffset:0}}
+@keyframes p{50%{fill:#34d399}}
+@keyframes b{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.f,.n,.c{animation:none}.f{stroke-dasharray:none;opacity:.35}}
+</style>
+<rect width="1200" height="380" rx="18" fill="#0b1220"/>
+<path class="e" d="M760 110L880 70M760 110L880 150M760 110L880 230M760 110L880 310M760 190L880 70M760 190L880 150M760 190L880 230M760 190L880 310M760 270L880 70M760 270L880 150M760 270L880 230M760 270L880 310M880 70L1000 70M880 70L1000 150M880 70L1000 230M880 70L1000 310M880 150L1000 70M880 150L1000 150M880 150L1000 230M880 150L1000 310M880 230L1000 70M880 230L1000 150M880 230L1000 230M880 230L1000 310M880 310L1000 70M880 310L1000 150M880 310L1000 230M880 310L1000 310M1000 70L1110 150M1000 70L1110 230M1000 150L1110 150M1000 150L1110 230M1000 230L1110 150M1000 230L1110 230M1000 310L1110 150M1000 310L1110 230"/><path class="f" style="animation-delay:0.0s" d="M760 110L880 70"/><path class="f" style="animation-delay:1.2s" d="M760 110L880 310"/><path class="f" style="animation-delay:1.6s" d="M760 190L880 230"/><path class="f" style="animation-delay:2.0s" d="M760 270L880 150"/><path class="f" style="animation-delay:2.0s" d="M880 70L1000 230"/><path class="f" style="animation-delay:2.4s" d="M880 150L1000 150"/><path class="f" style="animation-delay:0.0s" d="M880 230L1000 70"/><path class="f" style="animation-delay:1.2s" d="M880 230L1000 310"/><path class="f" style="animation-delay:1.6s" d="M880 310L1000 230"/><path class="f" style="animation-delay:0.0s" d="M1000 70L1110 230"/><path class="f" style="animation-delay:0.4s" d="M1000 150L1110 150"/><path class="f" style="animation-delay:2.4s" d="M1000 310L1110 230"/><circle class="n" style="animation-delay:0.0s" cx="760" cy="110" r="11"/><circle class="n" style="animation-delay:0.4s" cx="760" cy="190" r="11"/><circle class="n" style="animation-delay:0.8s" cx="760" cy="270" r="11"/><circle class="n" style="animation-delay:1.2s" cx="880" cy="70" r="11"/><circle class="n" style="animation-delay:1.6s" cx="880" cy="150" r="11"/><circle class="n" style="animation-delay:2.0s" cx="880" cy="230" r="11"/><circle class="n" style="animation-delay:2.4s" cx="880" cy="310" r="11"/><circle class="n" style="animation-delay:0.0s" cx="1000" cy="70" r="11"/><circle class="n" style="animation-delay:0.4s" cx="1000" cy="150" r="11"/><circle class="n" style="animation-delay:0.8s" cx="1000" cy="230" r="11"/><circle class="n" style="animation-delay:1.2s" cx="1000" cy="310" r="11"/><circle class="n" style="animation-delay:1.6s" cx="1110" cy="150" r="11"/><circle class="n" style="animation-delay:2.0s" cx="1110" cy="230" r="11"/>
+<text x="60" y="92" font-size="20" fill="#34d399">model_card.load()</text>
+<text x="60" y="162" font-size="52" font-weight="700" fill="#f8fafc">Sripathi</text>
+<text x="60" y="222" font-size="52" font-weight="700" fill="#f8fafc">Srinidhi</text>
+<text x="60" y="274" font-size="22" fill="#cbd5e1">MSc Data Science · Greenwich · 2027</text>
+<text x="60" y="314" font-size="22" fill="#34d399">status: open to ML/AI internships<tspan class="c"> ▌</tspan></text>
+</svg>

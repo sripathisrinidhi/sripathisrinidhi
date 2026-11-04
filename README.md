@@ -1,5 +1,9 @@
 <img src="assets/banner.svg" alt="Sripathi Srinidhi, MSc Data Science student, open to ML and AI internships" width="100%" />
 
+[Email](mailto:sripathisrinidhiuk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srinidhi-sripathi-269980285/)
+
+[Portfolio](https://sripathisrinidhi.github.io) · [Email](mailto:sripathisrinidhiuk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srinidhi-sripathi-269980285/)
+
 ## Model Card
 
 ```yaml

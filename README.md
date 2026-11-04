@@ -4,7 +4,7 @@
 
 ```yaml
 name: Sripathi Srinidhi
-training: MSc Data Science, University of Greenwich (2027)
+training: MSc Data Science, University of Greenwich
 focus: [machine learning, computer vision, data science]
 strength: taking models from notebook to deployed app
 intended_use: ML/AI and data science internships
